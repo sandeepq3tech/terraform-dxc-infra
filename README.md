@@ -1,2 +1,2 @@
-# terrafrom-dxc-infra
+# terraform-dxc-infra
 dxc infra code
